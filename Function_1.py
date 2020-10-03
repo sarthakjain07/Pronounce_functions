@@ -7,4 +7,4 @@ def pronounce(str):
 
 if __name__ == "__main__":
     string=input("Enter the string you want to be pronounced\n")
-    pronounce(string)    
+    pronounce(string)   # Now with the help of this function your entered string will be pronounced
