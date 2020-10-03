@@ -1,4 +1,5 @@
-from win32com.client import Dispatch # used to make pronounce function using sapi voice
+# used to make pronounce function using sapi voice
+from win32com.client import Dispatch 
 
 def pronounce(str):
     '''This function is used to make pronounce any string given to it'''
